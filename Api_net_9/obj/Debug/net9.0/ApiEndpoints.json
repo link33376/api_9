@@ -1,23 +1,20 @@
 [
   {
-    "ContainingType": "Api_net_9.Controllers.WeatherForecastController",
+    "ContainingType": "Api_net_9.Controllers.ProdutosController",
     "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "RelativePath": "Produtos",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[Api_net_9.WeatherForecast, Api_net_9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Api_net_9.Models.Produto, Api_net_9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
+          "application/json"
         ],
         "StatusCode": 200
       }
-    ],
-    "EndpointName": "GetWeatherForecast"
+    ]
   }
 ]

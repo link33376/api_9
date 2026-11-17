@@ -1,6 +1,0 @@
-[2026-10-26T16:49:05.056Z] [INIT] Deep Copilot debug log started. file=/home/rodrigo/Documentos/Projetos/Api_net_9/Api_net_9/.deep-copilot/logs/session-2026-10-26T16-49-05-056Z.log
-[2026-10-26T16:49:05.057Z] [ACTIVATE] {"version":"0.43.1"}
-[2026-10-26T16:49:05.057Z] [PROVIDERS_LOADED] {"count":4,"ids":["anthropic","custom","deepseek","openai"]}
-[2026-10-26T16:49:05.057Z] [TERMINAL_MONITOR_STARTED] {}
-[2026-10-26T16:49:05.057Z] [STATUSBAR_REGISTERED] {"id":"deepseekAgent.statusBar"}
-[2026-10-26T16:49:05.059Z] [INLINE_COMPLETION_REGISTERED]
